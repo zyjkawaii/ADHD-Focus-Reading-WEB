@@ -1,0 +1,10 @@
+{
+  "description": "A gamified reading app for people with ADHD, featuring customizable Pomodoro sessions, reading progress tracking, and rewards that help build focus and motivation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
